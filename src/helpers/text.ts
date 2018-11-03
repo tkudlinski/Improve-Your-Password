@@ -1,0 +1,3 @@
+export default {
+    about: 'The mission of Improve Your Password app is to help you enhance strength of your password in secure way.    \n   \n**You do not have to rember super long password. Just use our app with short password + PIN and generate enhanced password!**\n   \n   \n   \n **3 steps** to generate **enhanced password**:    \n   \n1) Provide **Initial Password** and 4-digit **PIN**.   \n   \n2) Pick Password length   \n   \n3) Click **Generate** button   \n   \n  \n   \n **Contact us**: contact[MONKEY]improveyourpassword[.]com   \n   \nTechologies: **PWA**, **SHA3**   \n   \n  \n   \n '
+}

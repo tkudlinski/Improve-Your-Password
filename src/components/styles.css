@@ -1,0 +1,47 @@
+.main {
+  width: 100vw;
+  padding-top: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+
+.passwordLength_container {
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: space-between;
+}
+
+.password_value {
+  word-break: break-all;
+}
+
+.about_container {
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.ui.card > .content > .header.header_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main .ui.card>.content:after, .ui.cards>.card>.content:after {
+  content: unset;
+}
+
+.main .ui.card {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.main > .ui.card,
+.ui.cards > .card {
+  width: calc(100vw - 40px);
+  min-width: 310px;
+  max-width: 465px;
+}

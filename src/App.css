@@ -1,0 +1,8 @@
+.App .Toastify__toast.Toastify__toast--success {
+    background: #21BA45;
+}
+
+.App .Toastify__toast-body {
+    text-align: center;
+}
+
